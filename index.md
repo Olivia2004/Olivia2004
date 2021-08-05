@@ -25,8 +25,14 @@ The Benefits of the Covid Vaccine
 1. The vacccine helps protects individuals against Covid-19
 2. 2. Increases the individual's ability to fight infections.
 3. The vaccine helps immunize the world's population, decreasing the continuation of the pandemic. 
+![image](https://user-images.githubusercontent.com/78560159/128272560-3ba085a3-137d-4e47-aee5-dec8fd6b4a37.png)
 
 Which vaccine you should take
 Pfizer Vaccine - 95% effective in preventing the COVID-19 virus in people ages 16 and older. The vaccine 100% helps prevent the virus in children ages 12-15.
 Moderna - 94% effective in preventing the virus.
 Janssen/Johnson & Johnson Vaccine - 66% effective in preventing the Covid-19 virus.
+![image](https://user-images.githubusercontent.com/78560159/128272435-a3e344f0-3789-4218-8ceb-0a166281bd81.png)    ![image](https://user-images.githubusercontent.com/78560159/128272478-06b9340b-afc3-4a64-856a-f653f950a856.png)   ![image](https://user-images.githubusercontent.com/78560159/128272514-028f3ec5-6f0e-4e58-a99f-fd15803b94c3.png)
+
+
+
+
