@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/78560159/128272274-d06e3f63-2eac-47d3-b6cc-a24160a18357.png)
 
 
-# Getting to know the vaccine
+##### Getting to know the vaccine
 
 Like any vaccine, COVID-19 vaccines can cause mild, short term side effects, such as a low-grade fever or pain or redness at the injection site 
 Before receiving validation from WHO and national regulatory agencies, COVID-19 vaccines must undergo rigorous testing in clinical trials to prove that they meet internationally agreed benchmarks for safety and efficacy
