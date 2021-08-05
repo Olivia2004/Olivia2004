@@ -34,8 +34,11 @@ Moderate and short-lasting effects: fever, fatigue, headache, muscle pain, chill
 ### Which vaccine you should take
 
 Pfizer Vaccine - 95% effective in preventing the COVID-19 virus in people ages 16 and older. The vaccine 100% helps prevent the virus in children ages 12-15. Effects: Swelling, readness, nausea.
+
 Moderna - 94% effective in preventing the virus. Effects: Rash, redmess or hives.
+
 Astrazeneca - 76% efficacy rate. Effects: Swelling, redness or lump, fever. vomiting. 
+
 Janssen/Johnson & Johnson Vaccine - 66% effective in preventing the Covid-19 virus. Effects: Fever, redness and swelling.
 ![image](https://user-images.githubusercontent.com/78560159/128272435-a3e344f0-3789-4218-8ceb-0a166281bd81.png)    ![image](https://user-images.githubusercontent.com/78560159/128272478-06b9340b-afc3-4a64-856a-f653f950a856.png)  ![image](https://user-images.githubusercontent.com/78560159/128275415-da9ba7ba-78a3-4764-b7a1-937358cd6638.png)
    ![image](https://user-images.githubusercontent.com/78560159/128272514-028f3ec5-6f0e-4e58-a99f-fd15803b94c3.png)
